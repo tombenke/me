@@ -1,0 +1,44 @@
+{
+  "name": "mysite",
+  "description": "This is my single page website.",
+  "title": "",
+  "version": "1.0.0",
+  "author": {
+    "name": "Anonymous",
+    "email": "anonymous@some-domain.com"
+  },
+  "bugs": {
+    "url": "https://github.com/anonymous//issues"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/anonymous/mysite/LICENSE"
+  },
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "browser-sync": "^2.13.0",
+    "font-awesome": "^4.6.3",
+    "gulp": "^3.9.1",
+    "gulp-data": "^1.2.1",
+    "gulp-clean-css": "^2.0.10",
+    "gulp-filter": "^4.0.0",
+    "gulp-header": "^1.8.7",
+    "gulp-less": "^3.1.0",
+    "gulp-markdown": "^1.2.0",
+    "gulp-mustache": "^2.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.4",
+    "jquery": "^1.11.3",
+    "magnific-popup": "^1.1.0",
+    "scrollreveal": "^3.1.4",
+    "js-yaml": "^3.8.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anonymous/mysite.git"
+  },
+  "scripts": {
+      "build": "node_modules/gulp/bin/gulp.js",
+      "watch": "node_modules/gulp/bin/gulp.js watch"
+  }
+}

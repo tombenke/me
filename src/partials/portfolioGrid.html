@@ -1,0 +1,26 @@
+    <!-- Portfolio Grid Section -->
+    <section id="portfolio">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Some of the projects I contributed to:</h2>
+                    <hr class="star-primary">
+                </div>
+            </div>
+            <div class="row">
+                {{#portfolio.projects}}
+                <div class="col-sm-4 portfolio-item">
+                    <a href="#{{projectId}}" class="portfolio-link" data-toggle="modal">
+                        <div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="{{photoUrl}}" class="img-responsive" alt="Submarine">
+                    </a>
+                </div>
+                {{/portfolio.projects}}
+            </div>
+        </div>
+    </section>
+

@@ -1,0 +1,53 @@
+author: "tombenke"
+projectName: "ws_tombenke"
+brand: "tombenke"
+authorFullName: "Tamás Benke"
+projectDescription: "Personal page of Tamás Benke"
+status: Senior Software Architect and Catalyst at Lufthansa Systems Hungária Kft.
+skills: Full-Stack Developer - Software Architect
+title: "Tamás Benke&#x27;s page"
+about: 
+  heading: "About"
+  text: "<p>I’m passionate about learning new things, <br>scouting for new technologies, <br>finding adequate solutions for challenging problems, <br>and share what I learned with other people.</p><p>Nothing is more fulfilling than being part of a team with similar interests, <br>and an organization that values its employees.</p>"
+portfolio: 
+  heading: My Portfolio
+  projects: 
+    - heading: inTime
+      subHeading: 
+      description: |
+        <p>Lufthansa Systems’ inTime app shows how much time users can still spend at their current location and still get to the gate on time.</p>
+        <ul>
+        <li><a href="https://apex.aero/2017/03/22/lufthansa-systems-intime-math-travel-time">Lufthansa Systems’ InTime Does the Math for Travel Time</a></li>
+        <li><a href="http://newsroom.lufthansagroup.com/fileadmin/data/themen/digital-aviation/Presse/170110_LHG_Infografik_DigitaleInnovationen_EN.pdf">16 digital innovations in the Lufthansa Group</a></li>
+        </ul>
+      photoUrl: img/portfolio/intime.jpg
+      projectId: "intime"
+    - heading: 3D Load Plan
+      subHeading: 3D visualization technologies in Weight and Balance
+      description: |
+        <p></p>
+        <ul>
+        <li><a href="https://www.lhsystems.com/blog-entry/future-load-control-why-using-3d-visualization-load-control">Future Load Control: Why using 3D visualization for Load Control?</a></li>
+        <li><a href="https://www.youtube.com/watch?v=HEd33p0SjAo">NetLine/Load and the 3D Loadplan – in a nutshell</a></li>
+        <li><a href="https://www.youtube.com/watch?v=z84kZyEJmrE">Lufthansa Systems: Future Load Control - 3D Loadplan</a></li>
+        </ul>
+      photoUrl: img/portfolio/3dloadplan_1.png
+      projectId: "3dloadplan"
+    - heading: Project Three
+      subHeading: Project Subheading
+      description: "Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde."
+      photoUrl: img/portfolio/circus.png
+      projectId: "portfolioModal3"
+
+  callToAction: "Start Now!"
+testimonials: []
+contact: 
+  text: "Hire me!"
+  address: "3481 Melrose Place<br>Beverly Hills, CA 90210"
+  businessHours: "Monday - Friday: 9:00 AM to 5:00 PM"
+  mail: "tombenke@gmail.com"
+  phone: "(+36) 70 317-5024"
+  facebookUrl: "https://www.facebook.com/tamas.benke.161"
+  googlePlusUrl: "https://plus.google.com/107401799973522671886"
+  twitterUrl: "https://twitter.com/tombenke"
+  linkedInUrl: "https://www.linkedin.com/in/tam%C3%A1s-benke-02b9707/"
